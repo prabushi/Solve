@@ -37,8 +37,6 @@ other = {
     '1000': 'one thousand'
 }
 
-# s1.strip() s1.split()
-
 def getCharaterCount(string):
     tot = 0
     stringArray = string.split()
