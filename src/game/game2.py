@@ -5,7 +5,5 @@ for k in range(0, len(list)):
     v = list[k]
     ch = chr(v/((k + 1 * 2) + k))
     str = str + ch
-    print(ch)
 
 print(str)
-print(ord('A'))
